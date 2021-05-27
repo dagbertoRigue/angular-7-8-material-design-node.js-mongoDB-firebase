@@ -1,0 +1,9 @@
+Componentes
+
+Angular - arquitetura baseada em módulos que contém componentes.
+O projeto de um página de vídeos pode ter uma lista de itens, tendo cada item como um componente e tendo a lista de componentes como um componente.
+Os componentes respeito hierarquia, onde um componente pode conter vários componentes.
+
+Composição do componente :
+Um componente é composto por Classe (typescript), Template(HTML) e pelo Estilo(CSS).
+Existe um conjunto de outros recursos, como por exemplo, diretivas, injeção de dependências e pipes.
